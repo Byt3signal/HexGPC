@@ -1,16 +1,23 @@
-# **HexGPC**
+# HexGPC
 
-You can use **HexGPC** by going to **Command Prompt**.
+A Package that Converts Images & Videos into Binary, Reads the Binary pixels converts the Pixels into hexadecimal Values.
 
-## **Steps to Use**
+---
 
-- Run the following command in **Command Prompt**:
-  ```bash
-  pip install hexgpc
-  cd Downloads\HexGPC-main\HexGPC-main && python HexGPC.py
+# V1.1. 1
 
-# **Information**
+Added **Video Support**
 
- - Supports **Over 65+ File types**.
+Fixed **bugs**
 
- - **More updates Will be coming Soon Including Pre Animations, Etc**
+---
+
+# How to Install
+
+**Here's how to use it**
+
+```bash
+
+pip install hexgpc
+cd Downloads\HexGPC-main\HexGPC-main && python HexGPC.py
+
