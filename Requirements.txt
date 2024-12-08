@@ -1,1 +1,1 @@
-Pip install Pillow
+pip install hexgpc pillow opencv-python
